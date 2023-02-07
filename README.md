@@ -7,7 +7,7 @@ RamCleaner Plugin for Minecraft
 # What is this?
 
 This is a simple but plain ramcleaner or garbage collector for Minecraft. It cleans the your Server RAM in an set interval and should help you to keep the
-RAM load of your Server down.
+RAM load off your Server down.
 
 # Features
 
