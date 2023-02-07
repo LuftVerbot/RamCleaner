@@ -1,0 +1,22 @@
+# Auto-Cleaner(cleans in self set frequency)(default: true)
+auto-cleaner: true
+
+# Control how frequently (in seconds) the cleaner will run(default: 60)
+frequency: 60
+
+# OnJoin-Cleaner(run cleaner when player joins)(default: false)
+onjoin: false
+
+# OnLeave-Cleaner(run cleaner when player leaves)(default: false)
+onleave: false
+
+# Type of cleaner(does not affect command)
+# 1: Cleaner runs all the time(default)
+# 2: Cleaner runs when ram used by the server is higher than your Target Memory
+type: 1
+
+# Target Memory(in MB)(default: 256)
+size: 256
+
+# Print messages to console when the cleaner runs(default: true)
+debug: true

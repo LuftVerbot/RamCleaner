@@ -1,0 +1,19 @@
+name: RamCleaner
+version: '${version}'
+main: com.luft.ramcleaner.RamCleaner
+api-version: 1.19
+authors: [ LuftVerbot ]
+description: RAM cleaner for Minecraft Server's
+commands:
+  ramclean:
+    description: Cleans RAM
+    usage: /<command> clean
+    permission: ramclean.use
+  ramcleanreload:
+    description: Reloads the config file
+    usage: /<command> reload
+    permission: ramclean.reload
+  ramcleanhelp:
+    description: Loads help
+    usage: /<command> help
+    permission: ramclean.use
